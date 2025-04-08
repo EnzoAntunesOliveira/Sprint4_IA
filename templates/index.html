@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <title>Aplicação de ML</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <h1>Aplicação de Machine Learning</h1>
+  <form id="upload-form">
+    <label for="csv-file">Selecione o arquivo CSV:</label>
+    <input type="file" id="csv-file" name="file" accept=".csv">
+    <button type="submit">Enviar e Processar</button>
+  </form>
+  <div id="result"></div>
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

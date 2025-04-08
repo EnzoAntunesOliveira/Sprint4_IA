@@ -1,0 +1,26 @@
+/* Estilo para o relatório de classificação */
+.classification-report {
+    background: #e8f4fc;
+    border: 1px solid #007BFF;
+    border-radius: 4px;
+    padding: 10px;
+    overflow: auto;
+    font-family: Consolas, monospace;
+  }
+  
+  /* Estilo para a tabela da matriz de confusão */
+  .confusion-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  .confusion-table th,
+  .confusion-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: center;
+  }
+  .confusion-table th {
+    background-color: #f2f2f2;
+  }
+  
