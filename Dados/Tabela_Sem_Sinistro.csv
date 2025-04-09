@@ -1,0 +1,336 @@
+ID,CPF,DATA_CONSULTA,CUSTO_CONSULTA,DESCRICAO_TRATAMENTO,NOME_DENTISTA,OUT_OF_RANGE,TREATMENT_ENCODED,DENTIST_ENCODED
+162,10138926104,2023-06-12,440,Implantodontia,Dr. Oliveira,1,1,0
+291,10278330520,2023-10-19,1385,Implantodontia,Dr. Santos,1,1,1
+46,10445791473,2023-02-16,860,Tratamento de Canal,Dr. Silva,0,4,2
+454,10498015191,2024-03-30,253,Restauração Dentária,Dra. Pereira,0,2,4
+174,10591153476,2023-06-24,412,Restauração Dentária,Dra. Pereira,0,2,4
+353,10689044704,2023-12-20,596,Implantodontia,Dr. Silva,1,1,2
+241,10754362870,2023-08-30,963,Implantodontia,Dr. Silva,1,1,2
+304,11121192054,2023-11-01,834,Clareamento Dental,Dr. Santos,1,0,1
+285,11263721654,2023-10-13,1737,Tratamento de Canal,Dra. Pereira,1,4,4
+411,11623542723,2024-02-16,486,Clareamento Dental,Dr. Silva,0,0,2
+238,12137114774,2023-08-27,1132,Tratamento de Canal,Dr. Santos,1,4,1
+31,12809993601,2023-02-01,1485,Implantodontia,Dra. Pereira,1,1,4
+197,13171804947,2023-07-17,312,Implantodontia,Dra. Pereira,1,1,4
+108,13270356709,2023-04-19,2890,Tratamento Periodontal,Dr. Santos,1,3,1
+398,13505357770,2024-02-03,1136,Tratamento Periodontal,Dra. Pereira,0,3,4
+201,13543942252,2023-07-21,629,Implantodontia,Dr. Santos,1,1,1
+252,13749649967,2023-09-10,2277,Implantodontia,Dr. Oliveira,0,1,0
+148,14096734103,2023-05-29,1631,Clareamento Dental,Dr. Silva,1,0,2
+91,14398252731,2023-04-02,639,Tratamento Periodontal,Dr. Santos,0,3,1
+328,14466967322,2023-11-25,2172,Tratamento de Canal,Dr. Oliveira,1,4,0
+57,14531310181,2023-02-27,563,Restauração Dentária,Dra. Mendes,0,2,3
+324,14533229201,2023-11-21,456,Restauração Dentária,Dra. Mendes,0,2,3
+9,14590873311,2023-01-10,2887,Tratamento Periodontal,Dra. Pereira,1,3,4
+370,14751111209,2024-01-06,1389,Restauração Dentária,Dr. Silva,0,2,2
+155,14782522773,2023-06-05,1726,Tratamento Periodontal,Dra. Pereira,1,3,4
+332,14787803046,2023-11-29,2241,Tratamento Periodontal,Dr. Oliveira,1,3,0
+253,14847608762,2023-09-11,702,Restauração Dentária,Dra. Pereira,0,2,4
+55,14923239377,2023-02-25,675,Tratamento Periodontal,Dra. Pereira,0,3,4
+111,15187222398,2023-04-22,579,Tratamento de Canal,Dra. Pereira,0,4,4
+465,15211613337,2024-04-10,898,Tratamento de Canal,Dr. Santos,0,4,1
+373,15701117449,2024-01-09,574,Clareamento Dental,Dra. Mendes,0,0,3
+445,15759722102,2024-03-21,981,Tratamento Periodontal,Dr. Silva,0,3,2
+129,15906772222,2023-05-10,1988,Clareamento Dental,Dr. Silva,1,0,2
+189,16369329293,2023-07-09,598,Tratamento de Canal,Dr. Silva,0,4,2
+209,16729570235,2023-07-29,2335,Implantodontia,Dra. Pereira,0,1,4
+103,16734779963,2023-04-14,381,Restauração Dentária,Dr. Silva,0,2,2
+393,17299449387,2024-01-29,2594,Clareamento Dental,Dr. Silva,1,0,2
+203,17605232501,2023-07-23,2861,Restauração Dentária,Dr. Silva,1,2,2
+216,17912540997,2023-08-05,926,Tratamento Periodontal,Dr. Santos,0,3,1
+182,18818908918,2023-07-02,258,Clareamento Dental,Dr. Santos,1,0,1
+414,19488996496,2024-02-19,408,Tratamento Periodontal,Dr. Silva,0,3,2
+135,19635106145,2023-05-16,1194,Restauração Dentária,Dra. Pereira,0,2,4
+239,19765465692,2023-08-28,888,Restauração Dentária,Dra. Pereira,0,2,4
+341,20123940116,2023-12-08,1267,Implantodontia,Dr. Silva,1,1,2
+202,20270957656,2023-07-22,952,Tratamento Periodontal,Dra. Mendes,0,3,3
+130,20487229515,2023-05-11,1477,Tratamento de Canal,Dr. Silva,1,4,2
+86,20539151679,2023-03-28,1980,Clareamento Dental,Dra. Pereira,1,0,4
+441,20707228882,2024-03-17,838,Tratamento de Canal,Dr. Santos,0,4,1
+120,21739015776,2023-05-01,726,Clareamento Dental,Dr. Oliveira,1,0,0
+70,21776541229,2023-03-12,581,Clareamento Dental,Dr. Santos,0,0,1
+223,21886724559,2023-08-12,2512,Implantodontia,Dr. Silva,0,1,2
+269,22085770678,2023-09-27,1916,Restauração Dentária,Dra. Pereira,1,2,4
+423,22162376465,2024-02-28,1518,Implantodontia,Dra. Mendes,0,1,3
+25,22336076721,2023-01-26,1310,Restauração Dentária,Dr. Santos,0,2,1
+113,22342438675,2023-04-24,557,Clareamento Dental,Dr. Silva,0,0,2
+488,22627138869,2024-05-03,1565,Tratamento Periodontal,Dr. Santos,1,3,1
+295,22983918477,2023-10-23,1276,Implantodontia,Dr. Silva,1,1,2
+387,23202004751,2024-01-23,1329,Tratamento de Canal,Dra. Mendes,1,4,3
+347,23386472946,2023-12-14,505,Tratamento de Canal,Dr. Silva,0,4,2
+357,23708845468,2023-12-24,1025,Clareamento Dental,Dr. Santos,1,0,1
+380,23943610647,2024-01-16,2910,Restauração Dentária,Dr. Santos,1,2,1
+128,24507011155,2023-05-09,942,Clareamento Dental,Dr. Oliveira,1,0,0
+66,24629644113,2023-03-08,2333,Clareamento Dental,Dr. Santos,1,0,1
+112,24851566207,2023-04-23,729,Tratamento de Canal,Dr. Santos,0,4,1
+321,24947065373,2023-11-18,1704,Tratamento Periodontal,Dra. Mendes,1,3,3
+323,25378753787,2023-11-20,678,Restauração Dentária,Dra. Mendes,0,2,3
+376,25446411521,2024-01-12,671,Tratamento Periodontal,Dr. Oliveira,0,3,0
+444,25475080374,2024-03-20,975,Restauração Dentária,Dra. Mendes,0,2,3
+448,25629001461,2024-03-24,257,Tratamento Periodontal,Dr. Oliveira,1,3,0
+264,25748249914,2023-09-22,622,Implantodontia,Dra. Pereira,1,1,4
+139,26249250134,2023-05-20,957,Tratamento Periodontal,Dra. Pereira,0,3,4
+497,26729731644,2024-05-12,450,Restauração Dentária,Dr. Oliveira,0,2,0
+472,26921646544,2024-04-17,708,Tratamento de Canal,Dr. Oliveira,0,4,0
+400,27348247051,2024-02-05,487,Tratamento Periodontal,Dr. Oliveira,0,3,0
+164,27374689430,2023-06-14,2178,Tratamento de Canal,Dr. Oliveira,1,4,0
+149,27643065384,2023-05-30,1771,Tratamento de Canal,Dra. Mendes,1,4,3
+366,27727869214,2024-01-02,966,Implantodontia,Dr. Oliveira,1,1,0
+36,27840809465,2023-02-06,2692,Tratamento Periodontal,Dr. Silva,1,3,2
+336,28896679994,2023-12-03,1207,Tratamento Periodontal,Dra. Mendes,0,3,3
+494,29223899301,2024-05-09,2741,Tratamento de Canal,Dr. Oliveira,1,4,0
+185,29525773863,2023-07-05,456,Clareamento Dental,Dr. Oliveira,0,0,0
+26,29707486655,2023-01-27,1719,Implantodontia,Dr. Oliveira,0,1,0
+395,30207710326,2024-01-31,456,Tratamento Periodontal,Dr. Silva,0,3,2
+17,30258535521,2023-01-18,446,Restauração Dentária,Dr. Santos,0,2,1
+97,30652945609,2023-04-08,814,Clareamento Dental,Dr. Santos,1,0,1
+74,31911275267,2023-03-16,339,Implantodontia,Dra. Pereira,1,1,4
+38,32699019599,2023-02-08,289,Implantodontia,Dr. Santos,1,1,1
+63,32940009407,2023-03-05,592,Clareamento Dental,Dr. Santos,0,0,1
+132,33069412749,2023-05-13,493,Tratamento de Canal,Dr. Santos,0,4,1
+363,33231446982,2023-12-30,2439,Clareamento Dental,Dra. Pereira,1,0,4
+350,33650776324,2023-12-17,2184,Tratamento Periodontal,Dra. Pereira,1,3,4
+12,33743248250,2023-01-13,895,Tratamento de Canal,Dra. Pereira,0,4,4
+213,34144863490,2023-08-02,1135,Tratamento Periodontal,Dra. Mendes,0,3,3
+273,34464537371,2023-10-01,1027,Clareamento Dental,Dr. Santos,1,0,1
+105,34592711333,2023-04-16,2715,Clareamento Dental,Dr. Oliveira,1,0,0
+207,34655876319,2023-07-27,1343,Tratamento Periodontal,Dra. Mendes,0,3,3
+450,34690610046,2024-03-26,672,Clareamento Dental,Dra. Pereira,0,0,4
+296,34737601326,2023-10-24,2487,Tratamento de Canal,Dra. Pereira,1,4,4
+237,34784119170,2023-08-26,2003,Clareamento Dental,Dr. Santos,1,0,1
+389,35444007973,2024-01-25,454,Implantodontia,Dra. Mendes,1,1,3
+492,36023086240,2024-05-07,695,Clareamento Dental,Dr. Oliveira,0,0,0
+45,36965217934,2023-02-15,469,Tratamento de Canal,Dra. Mendes,0,4,3
+459,37787931755,2024-04-04,408,Clareamento Dental,Dra. Mendes,0,0,3
+334,37798167401,2023-12-01,1399,Tratamento de Canal,Dr. Oliveira,1,4,0
+88,37838553750,2023-03-30,585,Tratamento de Canal,Dra. Pereira,0,4,4
+305,38105461947,2023-11-02,1307,Implantodontia,Dr. Santos,1,1,1
+468,38306763908,2024-04-13,2805,Tratamento Periodontal,Dra. Mendes,1,3,3
+210,38528835170,2023-07-30,916,Implantodontia,Dr. Santos,1,1,1
+170,38743042697,2023-06-20,1687,Clareamento Dental,Dra. Mendes,1,0,3
+306,38857605255,2023-11-03,278,Implantodontia,Dra. Pereira,1,1,4
+397,39237138430,2024-02-02,1769,Implantodontia,Dr. Oliveira,0,1,0
+262,39348202360,2023-09-20,493,Restauração Dentária,Dra. Mendes,0,2,3
+199,39580965852,2023-07-19,572,Implantodontia,Dr. Oliveira,1,1,0
+455,40071726097,2024-03-31,2733,Implantodontia,Dra. Mendes,0,1,3
+451,40557687207,2024-03-27,611,Implantodontia,Dra. Pereira,1,1,4
+228,40600972621,2023-08-17,1935,Clareamento Dental,Dra. Pereira,1,0,4
+368,41323625426,2024-01-04,466,Clareamento Dental,Dr. Santos,0,0,1
+346,41513465137,2023-12-13,1138,Tratamento de Canal,Dr. Silva,1,4,2
+217,42266479043,2023-08-06,975,Tratamento de Canal,Dra. Pereira,0,4,4
+72,43176285194,2023-03-14,2472,Tratamento Periodontal,Dr. Silva,1,3,2
+349,43306189798,2023-12-16,629,Tratamento de Canal,Dra. Pereira,0,4,4
+173,43426573720,2023-06-23,1269,Tratamento Periodontal,Dr. Oliveira,0,3,0
+375,43450437140,2024-01-11,956,Tratamento Periodontal,Dra. Pereira,0,3,4
+329,43452756149,2023-11-26,557,Implantodontia,Dr. Oliveira,1,1,0
+52,43695150769,2023-02-22,1614,Tratamento de Canal,Dr. Oliveira,1,4,0
+195,43720958948,2023-07-15,897,Implantodontia,Dr. Silva,1,1,2
+177,43912063005,2023-06-27,778,Tratamento de Canal,Dra. Mendes,0,4,3
+80,44551170130,2023-03-22,2503,Implantodontia,Dra. Mendes,0,1,3
+188,44901827374,2023-07-08,1833,Tratamento Periodontal,Dr. Silva,1,3,2
+21,45176064059,2023-01-22,987,Clareamento Dental,Dr. Santos,1,0,1
+167,45336519804,2023-06-17,1379,Tratamento Periodontal,Dra. Pereira,0,3,4
+484,45446817459,2024-04-29,1830,Clareamento Dental,Dr. Santos,1,0,1
+308,46923856884,2023-11-05,311,Tratamento de Canal,Dr. Silva,0,4,2
+386,47081695145,2024-01-22,966,Clareamento Dental,Dr. Oliveira,1,0,0
+104,47716443751,2023-04-15,680,Clareamento Dental,Dra. Pereira,0,0,4
+260,47991121784,2023-09-18,584,Tratamento Periodontal,Dr. Oliveira,0,3,0
+364,48057867984,2023-12-31,2396,Tratamento de Canal,Dra. Mendes,1,4,3
+493,48364327019,2024-05-08,1518,Restauração Dentária,Dra. Mendes,0,2,3
+417,48608348673,2024-02-22,2511,Implantodontia,Dr. Oliveira,0,1,0
+79,48824336897,2023-03-21,830,Tratamento de Canal,Dr. Silva,0,4,2
+300,48909455743,2023-10-28,658,Tratamento Periodontal,Dra. Mendes,0,3,3
+190,48954568047,2023-07-10,917,Restauração Dentária,Dra. Pereira,0,2,4
+19,48959412874,2023-01-20,2407,Clareamento Dental,Dr. Oliveira,1,0,0
+385,49451789081,2024-01-21,1449,Implantodontia,Dr. Oliveira,1,1,0
+231,50014341456,2023-08-20,2184,Tratamento Periodontal,Dr. Silva,1,3,2
+153,50060959983,2023-06-03,2418,Tratamento de Canal,Dr. Silva,1,4,2
+379,50088354654,2024-01-15,833,Tratamento Periodontal,Dra. Pereira,0,3,4
+378,50173623570,2024-01-14,354,Tratamento Periodontal,Dra. Pereira,0,3,4
+87,50196801957,2023-03-29,630,Implantodontia,Dr. Santos,1,1,1
+163,50548275931,2023-06-13,586,Restauração Dentária,Dr. Silva,0,2,2
+318,50594876200,2023-11-15,1226,Implantodontia,Dra. Mendes,1,1,3
+172,50617911857,2023-06-22,1164,Tratamento de Canal,Dr. Oliveira,1,4,0
+453,50620963072,2024-03-29,342,Clareamento Dental,Dra. Pereira,1,0,4
+490,51157439791,2024-05-05,752,Implantodontia,Dr. Santos,1,1,1
+469,51367765809,2024-04-14,586,Tratamento de Canal,Dr. Santos,0,4,1
+333,51397004385,2023-11-30,563,Restauração Dentária,Dra. Pereira,0,2,4
+156,52096321705,2023-06-06,363,Implantodontia,Dra. Pereira,1,1,4
+43,52139518299,2023-02-13,1443,Clareamento Dental,Dr. Santos,1,0,1
+234,52329619881,2023-08-23,638,Implantodontia,Dra. Mendes,1,1,3
+412,52464391617,2024-02-17,624,Tratamento de Canal,Dra. Mendes,0,4,3
+356,52876485844,2023-12-23,1535,Restauração Dentária,Dr. Silva,0,2,2
+315,53019918483,2023-11-12,1005,Tratamento Periodontal,Dr. Santos,0,3,1
+406,53508554167,2024-02-11,2985,Implantodontia,Dr. Oliveira,0,1,0
+64,53933301847,2023-03-06,2294,Clareamento Dental,Dr. Silva,1,0,2
+345,54353375278,2023-12-12,505,Clareamento Dental,Dr. Santos,0,0,1
+299,54411096488,2023-10-27,425,Tratamento Periodontal,Dr. Oliveira,0,3,0
+61,54816486848,2023-03-03,605,Clareamento Dental,Dra. Mendes,0,0,3
+351,55370640642,2023-12-18,2314,Restauração Dentária,Dra. Mendes,1,2,3
+317,55466760758,2023-11-14,2027,Tratamento de Canal,Dr. Santos,1,4,1
+460,55780942185,2024-04-05,1766,Restauração Dentária,Dr. Santos,0,2,1
+491,56113082173,2024-05-06,602,Clareamento Dental,Dr. Oliveira,0,0,0
+425,56247640971,2024-03-01,789,Restauração Dentária,Dra. Pereira,0,2,4
+481,56429947436,2024-04-26,546,Clareamento Dental,Dr. Oliveira,0,0,0
+20,57436202463,2023-01-21,2603,Tratamento de Canal,Dra. Mendes,1,4,3
+405,57567813772,2024-02-10,1012,Clareamento Dental,Dra. Mendes,1,0,3
+496,57723755454,2024-05-11,851,Tratamento de Canal,Dr. Oliveira,0,4,0
+229,58086186179,2023-08-18,580,Restauração Dentária,Dra. Pereira,0,2,4
+399,58476014005,2024-02-04,1740,Restauração Dentária,Dr. Oliveira,0,2,0
+422,58563735399,2024-02-27,230,Clareamento Dental,Dra. Mendes,1,0,3
+470,59670484515,2024-04-15,553,Restauração Dentária,Dr. Santos,0,2,1
+75,59928452896,2023-03-17,655,Implantodontia,Dr. Oliveira,1,1,0
+287,60099240946,2023-10-15,658,Restauração Dentária,Dra. Mendes,0,2,3
+27,60143345943,2023-01-28,444,Implantodontia,Dra. Mendes,1,1,3
+98,60521344683,2023-04-09,1002,Clareamento Dental,Dra. Mendes,1,0,3
+143,60525841347,2023-05-24,560,Restauração Dentária,Dr. Santos,0,2,1
+28,61012534508,2023-01-29,341,Tratamento Periodontal,Dr. Silva,1,3,2
+272,61058230676,2023-09-30,2136,Tratamento de Canal,Dr. Silva,1,4,2
+7,61414705313,2023-01-08,688,Tratamento de Canal,Dr. Santos,0,4,1
+168,61621386557,2023-06-18,1340,Clareamento Dental,Dr. Oliveira,1,0,0
+78,61634748640,2023-03-20,1951,Tratamento de Canal,Dr. Santos,1,4,1
+14,62231205197,2023-01-15,172,Clareamento Dental,Dr. Santos,1,0,1
+383,62966719936,2024-01-19,2128,Clareamento Dental,Dra. Mendes,1,0,3
+265,63126976901,2023-09-23,2894,Tratamento Periodontal,Dra. Mendes,1,3,3
+255,63135772174,2023-09-13,2931,Restauração Dentária,Dra. Mendes,1,2,3
+344,63263650105,2023-12-11,459,Tratamento de Canal,Dr. Silva,0,4,2
+95,63475295554,2023-04-06,944,Clareamento Dental,Dr. Santos,1,0,1
+473,64198459486,2024-04-18,1040,Tratamento de Canal,Dra. Pereira,1,4,4
+150,64972989043,2023-05-31,502,Tratamento Periodontal,Dra. Mendes,0,3,3
+187,65192622674,2023-07-07,628,Tratamento Periodontal,Dra. Mendes,0,3,3
+171,65329827105,2023-06-21,496,Restauração Dentária,Dra. Mendes,0,2,3
+179,65427705720,2023-06-29,630,Implantodontia,Dra. Mendes,1,1,3
+276,65646853219,2023-10-04,1065,Implantodontia,Dr. Oliveira,1,1,0
+58,66012738147,2023-02-28,623,Restauração Dentária,Dra. Pereira,0,2,4
+443,66068163518,2024-03-19,2841,Implantodontia,Dr. Oliveira,0,1,0
+302,66083962389,2023-10-30,716,Implantodontia,Dr. Santos,1,1,1
+205,66208374713,2023-07-25,811,Tratamento de Canal,Dr. Santos,0,4,1
+314,66294834560,2023-11-11,1359,Clareamento Dental,Dra. Mendes,1,0,3
+479,66424703439,2024-04-24,644,Tratamento de Canal,Dr. Santos,0,4,1
+485,66460648477,2024-04-30,690,Implantodontia,Dr. Silva,1,1,2
+235,66599511448,2023-08-24,440,Tratamento Periodontal,Dr. Oliveira,0,3,0
+410,66648422604,2024-02-15,863,Implantodontia,Dr. Santos,1,1,1
+449,67133267113,2024-03-25,542,Tratamento Periodontal,Dr. Santos,0,3,1
+246,68089598331,2023-09-04,682,Restauração Dentária,Dr. Santos,0,2,1
+65,68186199361,2023-03-07,478,Restauração Dentária,Dr. Oliveira,0,2,0
+335,68227893580,2023-12-02,1007,Tratamento Periodontal,Dra. Mendes,0,3,3
+342,68980645208,2023-12-09,410,Tratamento de Canal,Dra. Mendes,0,4,3
+53,69028735720,2023-02-23,986,Implantodontia,Dr. Silva,1,1,2
+94,69245655902,2023-04-05,554,Clareamento Dental,Dr. Santos,0,0,1
+33,69553139586,2023-02-03,518,Implantodontia,Dra. Mendes,1,1,3
+248,69765992543,2023-09-06,1095,Clareamento Dental,Dra. Mendes,1,0,3
+206,69851065861,2023-07-26,1021,Implantodontia,Dr. Santos,1,1,1
+290,70248380940,2023-10-18,400,Clareamento Dental,Dr. Santos,0,0,1
+467,70348135428,2024-04-12,495,Tratamento de Canal,Dra. Pereira,0,4,4
+225,70427930599,2023-08-14,657,Tratamento de Canal,Dra. Pereira,0,4,4
+35,70869535291,2023-02-05,993,Tratamento de Canal,Dra. Pereira,0,4,4
+44,71390775909,2023-02-14,2200,Implantodontia,Dr. Silva,0,1,2
+140,71467100257,2023-05-21,2969,Implantodontia,Dr. Santos,0,1,1
+413,71588453357,2024-02-18,421,Clareamento Dental,Dr. Oliveira,0,0,0
+220,71732355866,2023-08-09,513,Tratamento Periodontal,Dra. Mendes,0,3,3
+118,71922883011,2023-04-29,808,Implantodontia,Dra. Pereira,1,1,4
+259,71938207347,2023-09-17,515,Restauração Dentária,Dr. Silva,0,2,2
+51,72081401401,2023-02-21,667,Restauração Dentária,Dr. Santos,0,2,1
+330,72180382332,2023-11-27,2657,Restauração Dentária,Dra. Pereira,1,2,4
+117,72319966246,2023-04-28,2885,Tratamento Periodontal,Dra. Pereira,1,3,4
+8,72434921021,2023-01-09,588,Tratamento Periodontal,Dr. Silva,0,3,2
+124,72473204967,2023-05-05,524,Implantodontia,Dr. Silva,1,1,2
+266,73138060150,2023-09-24,691,Clareamento Dental,Dr. Silva,0,0,2
+211,73205009850,2023-07-31,339,Restauração Dentária,Dra. Mendes,0,2,3
+428,73430447938,2024-03-04,595,Restauração Dentária,Dr. Oliveira,0,2,0
+426,73720784243,2024-03-02,950,Restauração Dentária,Dra. Pereira,0,2,4
+121,74152018022,2023-05-02,929,Tratamento Periodontal,Dr. Oliveira,0,3,0
+374,74266440669,2024-01-10,2693,Restauração Dentária,Dra. Pereira,1,2,4
+59,74407138684,2023-03-01,903,Implantodontia,Dra. Pereira,1,1,4
+184,74898619294,2023-07-04,545,Clareamento Dental,Dr. Silva,0,0,2
+56,74922803590,2023-02-26,360,Tratamento de Canal,Dr. Santos,0,4,1
+256,75198376690,2023-09-14,1344,Tratamento de Canal,Dr. Oliveira,1,4,0
+289,75676327779,2023-10-17,2318,Tratamento Periodontal,Dra. Mendes,1,3,3
+292,75790149137,2023-10-20,423,Implantodontia,Dr. Santos,1,1,1
+430,76380364165,2024-03-06,431,Implantodontia,Dra. Mendes,1,1,3
+489,76710352536,2024-05-04,678,Restauração Dentária,Dr. Santos,0,2,1
+192,76856822382,2023-07-12,2296,Restauração Dentária,Dra. Pereira,1,2,4
+254,77384373474,2023-09-12,674,Restauração Dentária,Dra. Pereira,0,2,4
+15,77667250678,2023-01-16,476,Restauração Dentária,Dra. Mendes,0,2,3
+114,77691129092,2023-04-25,298,Clareamento Dental,Dr. Oliveira,1,0,0
+359,78007500334,2023-12-26,1880,Implantodontia,Dr. Silva,0,1,2
+24,78374614375,2023-01-25,1530,Clareamento Dental,Dr. Santos,1,0,1
+435,78443464576,2024-03-11,406,Restauração Dentária,Dra. Mendes,0,2,3
+193,78681582490,2023-07-13,1427,Tratamento de Canal,Dr. Oliveira,1,4,0
+352,78768917370,2023-12-19,160,Implantodontia,Dra. Mendes,1,1,3
+175,79138509953,2023-06-25,352,Tratamento Periodontal,Dra. Mendes,0,3,3
+384,79150168141,2024-01-20,304,Tratamento de Canal,Dr. Santos,0,4,1
+191,79214411919,2023-07-11,448,Implantodontia,Dr. Oliveira,1,1,0
+320,79647261522,2023-11-17,2040,Tratamento de Canal,Dra. Mendes,1,4,3
+437,79949227657,2024-03-13,319,Tratamento Periodontal,Dra. Pereira,1,3,4
+499,80621291927,2024-05-14,1173,Restauração Dentária,Dr. Oliveira,0,2,0
+362,80679453945,2023-12-29,995,Tratamento de Canal,Dra. Pereira,0,4,4
+369,80719197973,2024-01-05,476,Tratamento Periodontal,Dr. Oliveira,0,3,0
+6,81220107084,2023-01-07,345,Implantodontia,Dra. Mendes,1,1,3
+123,82401345536,2023-05-04,760,Tratamento Periodontal,Dr. Oliveira,0,3,0
+208,82760799339,2023-07-28,832,Tratamento Periodontal,Dr. Santos,0,3,1
+343,82828904756,2023-12-10,696,Tratamento de Canal,Dra. Mendes,0,4,3
+307,83154234870,2023-11-04,551,Tratamento Periodontal,Dr. Santos,0,3,1
+23,83540953403,2023-01-24,435,Restauração Dentária,Dr. Santos,0,2,1
+107,83763678937,2023-04-18,312,Restauração Dentária,Dr. Santos,0,2,1
+119,84037337761,2023-04-30,737,Clareamento Dental,Dr. Silva,1,0,2
+270,84256766797,2023-09-28,922,Implantodontia,Dra. Mendes,1,1,3
+160,84309099253,2023-06-10,1412,Restauração Dentária,Dr. Silva,0,2,2
+429,84504665048,2024-03-05,613,Tratamento Periodontal,Dra. Pereira,0,3,4
+408,84755764645,2024-02-13,972,Restauração Dentária,Dr. Santos,0,2,1
+32,84766369881,2023-02-02,401,Clareamento Dental,Dra. Pereira,0,0,4
+439,84853758846,2024-03-15,722,Restauração Dentária,Dra. Pereira,0,2,4
+84,84872661151,2023-03-26,1681,Tratamento Periodontal,Dr. Silva,1,3,2
+67,85834780857,2023-03-09,2491,Implantodontia,Dr. Santos,0,1,1
+99,85845332595,2023-04-10,532,Restauração Dentária,Dr. Santos,0,2,1
+142,86155195053,2023-05-23,1010,Restauração Dentária,Dra. Pereira,0,2,4
+421,86228965308,2024-02-26,2912,Tratamento Periodontal,Dr. Silva,1,3,2
+420,86346537237,2024-02-25,499,Tratamento Periodontal,Dra. Pereira,0,3,4
+482,86374471043,2024-04-27,480,Implantodontia,Dr. Silva,1,1,2
+274,86420953404,2023-10-02,698,Implantodontia,Dra. Mendes,1,1,3
+127,86523473339,2023-05-08,861,Clareamento Dental,Dr. Oliveira,1,0,0
+122,86532450606,2023-05-03,962,Restauração Dentária,Dr. Santos,0,2,1
+442,86759794110,2024-03-18,1079,Tratamento de Canal,Dr. Oliveira,1,4,0
+102,86988956885,2023-04-13,1855,Tratamento Periodontal,Dra. Mendes,1,3,3
+286,87030065811,2023-10-14,1001,Implantodontia,Dr. Oliveira,1,1,0
+157,87175555950,2023-06-07,908,Restauração Dentária,Dra. Pereira,0,2,4
+456,87443495774,2024-04-01,1145,Tratamento Periodontal,Dr. Santos,0,3,1
+82,87825461760,2023-03-24,512,Clareamento Dental,Dra. Pereira,0,0,4
+475,88569189551,2024-04-20,509,Clareamento Dental,Dr. Silva,0,0,2
+115,88646928122,2023-04-26,1820,Implantodontia,Dra. Mendes,0,1,3
+144,88664237062,2023-05-25,904,Clareamento Dental,Dr. Santos,1,0,1
+367,88979173773,2024-01-03,614,Tratamento Periodontal,Dr. Oliveira,0,3,0
+280,89430695438,2023-10-08,409,Tratamento Periodontal,Dr. Santos,0,3,1
+261,89436928866,2023-09-19,1044,Clareamento Dental,Dra. Pereira,1,0,4
+316,89647330902,2023-11-13,513,Restauração Dentária,Dra. Pereira,0,2,4
+382,89733199912,2024-01-18,930,Restauração Dentária,Dra. Pereira,0,2,4
+458,90530932255,2024-04-03,488,Clareamento Dental,Dra. Mendes,0,0,3
+243,90931718388,2023-09-01,889,Tratamento de Canal,Dra. Mendes,0,4,3
+41,91909622693,2023-02-11,430,Restauração Dentária,Dr. Silva,0,2,2
+245,91980339726,2023-09-03,584,Restauração Dentária,Dr. Oliveira,0,2,0
+240,92471592211,2023-08-29,2520,Clareamento Dental,Dr. Silva,1,0,2
+427,92481998348,2024-03-03,1442,Tratamento Periodontal,Dra. Mendes,0,3,3
+109,92569821354,2023-04-20,385,Implantodontia,Dra. Mendes,1,1,3
+221,93908724632,2023-08-10,498,Restauração Dentária,Dr. Oliveira,0,2,0
+326,94080163335,2023-11-23,836,Implantodontia,Dra. Mendes,1,1,3
+110,94240307126,2023-04-21,625,Restauração Dentária,Dr. Silva,0,2,2
+403,94281770876,2024-02-08,508,Tratamento Periodontal,Dra. Pereira,0,3,4
+198,94953968086,2023-07-18,360,Tratamento Periodontal,Dr. Oliveira,0,3,0
+212,95108744045,2023-08-01,653,Implantodontia,Dra. Pereira,1,1,4
+76,95386634189,2023-03-18,500,Clareamento Dental,Dr. Oliveira,0,0,0
+298,95633726675,2023-10-26,624,Restauração Dentária,Dr. Santos,0,2,1
+396,95709194455,2024-02-01,2935,Tratamento Periodontal,Dr. Oliveira,1,3,0
+340,95801813059,2023-12-07,1701,Clareamento Dental,Dra. Mendes,1,0,3
+483,95997026040,2024-04-28,1484,Implantodontia,Dr. Santos,1,1,1
+275,96104283440,2023-10-03,2144,Tratamento de Canal,Dr. Silva,1,4,2
+166,96226463805,2023-06-16,521,Tratamento de Canal,Dr. Silva,0,4,2
+461,96709154786,2024-04-06,950,Restauração Dentária,Dra. Mendes,0,2,3
+126,97311837515,2023-05-07,398,Tratamento de Canal,Dra. Mendes,0,4,3
+338,97318106771,2023-12-05,1089,Restauração Dentária,Dra. Mendes,0,2,3
+294,97541548437,2023-10-22,338,Tratamento Periodontal,Dr. Oliveira,1,3,0
+96,97835984273,2023-04-07,1784,Implantodontia,Dr. Silva,0,1,2
+49,98224826937,2023-02-19,908,Restauração Dentária,Dra. Pereira,0,2,4
+159,98420288464,2023-06-09,812,Restauração Dentária,Dr. Oliveira,0,2,0
+365,98455331814,2024-01-01,1581,Tratamento Periodontal,Dra. Pereira,1,3,4
+348,98459527217,2023-12-15,446,Tratamento de Canal,Dra. Mendes,0,4,3
+4,99202764834,2023-01-05,785,Tratamento de Canal,Dra. Pereira,0,4,4
